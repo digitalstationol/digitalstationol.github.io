@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://digitalstationol.com/languages/categories/</loc>
+    <loc>https://digitalstationol.com/languages/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://digitalstationol.com/categories/"
+                href="https://digitalstationol.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="http://digitalstationol.com/languages/categories/"
+                href="https://digitalstationol.com/languages/categories/"
                 />
   </url><url>
-    <loc>http://digitalstationol.com/languages/</loc>
+    <loc>https://digitalstationol.com/languages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://digitalstationol.com/"
+                href="https://digitalstationol.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="http://digitalstationol.com/languages/"
+                href="https://digitalstationol.com/languages/"
                 />
   </url><url>
-    <loc>http://digitalstationol.com/languages/series/</loc>
+    <loc>https://digitalstationol.com/languages/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://digitalstationol.com/series/"
+                href="https://digitalstationol.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="http://digitalstationol.com/languages/series/"
+                href="https://digitalstationol.com/languages/series/"
                 />
   </url><url>
-    <loc>http://digitalstationol.com/languages/tags/</loc>
+    <loc>https://digitalstationol.com/languages/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://digitalstationol.com/tags/"
+                href="https://digitalstationol.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="http://digitalstationol.com/languages/tags/"
+                href="https://digitalstationol.com/languages/tags/"
                 />
   </url>
 </urlset>

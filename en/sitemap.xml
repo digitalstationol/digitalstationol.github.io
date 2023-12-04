@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://digitalstationol.com/privacy/</loc>
+    <loc>https://digitalstationol.com/privacy/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://digitalstationol.com/terms/</loc>
+    <loc>https://digitalstationol.com/terms/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://digitalstationol.com/</loc>
+    <loc>https://digitalstationol.com/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="http://digitalstationol.com/languages/"
+                href="https://digitalstationol.com/languages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://digitalstationol.com/"
+                href="https://digitalstationol.com/"
                 />
   </url><url>
-    <loc>http://digitalstationol.com/archive/</loc>
+    <loc>https://digitalstationol.com/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url><url>
-    <loc>http://digitalstationol.com/about/</loc>
+    <loc>https://digitalstationol.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://digitalstationol.com/categories/</loc>
+    <loc>https://digitalstationol.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="http://digitalstationol.com/languages/categories/"
+                href="https://digitalstationol.com/languages/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://digitalstationol.com/categories/"
+                href="https://digitalstationol.com/categories/"
                 />
   </url><url>
-    <loc>http://digitalstationol.com/tags/index/</loc>
+    <loc>https://digitalstationol.com/tags/index/</loc>
   </url><url>
-    <loc>http://digitalstationol.com/posts/</loc>
+    <loc>https://digitalstationol.com/posts/</loc>
   </url><url>
-    <loc>http://digitalstationol.com/series/</loc>
+    <loc>https://digitalstationol.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="http://digitalstationol.com/languages/series/"
+                href="https://digitalstationol.com/languages/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://digitalstationol.com/series/"
+                href="https://digitalstationol.com/series/"
                 />
   </url><url>
-    <loc>http://digitalstationol.com/tags/</loc>
+    <loc>https://digitalstationol.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="http://digitalstationol.com/languages/tags/"
+                href="https://digitalstationol.com/languages/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://digitalstationol.com/tags/"
+                href="https://digitalstationol.com/tags/"
                 />
   </url>
 </urlset>

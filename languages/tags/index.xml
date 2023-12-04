@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on Digitalstationol</title>
-    <link>http://digitalstationol.com/languages/tags/</link>
-    <description>Recent content in Tags on Digitalstationol</description>
+    <title>Tags on DigitalStationol - The digital world is a magical place </title>
+    <link>https://digitalstationol.com/languages/tags/</link>
+    <description>Recent content in Tags on DigitalStationol - The digital world is a magical place </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>languages</language>
     <managingEditor>digitalstationol@outlook.com (DigitalStationol)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>©2023, digitalstationol.com, Licensed Under</copyright>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="http://digitalstationol.com/languages/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://digitalstationol.com/languages/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       

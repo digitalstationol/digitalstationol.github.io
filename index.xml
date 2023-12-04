@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Digitalstationol</title>
-    <link>http://digitalstationol.com/</link>
-    <description>Recent content on Digitalstationol</description>
+    <title>DigitalStationol - The digital world is a magical place </title>
+    <link>https://digitalstationol.com/</link>
+    <description>Recent content on DigitalStationol - The digital world is a magical place </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>digitalstationol@outlook.com (DigitalStationol)</managingEditor>
@@ -17,7 +17,7 @@
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="http://digitalstationol.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://digitalstationol.com/index.xml" rel="self" type="application/rss+xml" />
     
       
       
